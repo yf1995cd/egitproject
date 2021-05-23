@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.cn.hnust.pojo.User;
 import com.cn.hnust.service.IUserService;
 
-//123 hello world
+//123 jason sb
 @Controller
 @RequestMapping("/user")
 public class UserController {
